@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import ProductList from "./ProductList";
+import "./App.css";
 
 // Define the shape of a Product using TypeScript interface
 interface Product {

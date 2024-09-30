@@ -3,7 +3,8 @@ body {
   font-family: "Roboto", sans-serif; /* Modern, clean font */
   margin: 0;
   padding: 0;
-  background-color: #f3f4f6;
+  /* background-color: #f3f4f6; */
+  background-color: #0000;
   color: #333;
 }
 
